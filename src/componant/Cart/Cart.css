@@ -1,7 +1,11 @@
 .cart{
-    padding:20px 50px;
+    padding:10px 50px;
     margin-left: 20px;
     margin-top: 20px;
     border-radius: 10px;
    color:bisque;
+   border: 0;   
+}
+.cart-img{
+    width:200px;
 }

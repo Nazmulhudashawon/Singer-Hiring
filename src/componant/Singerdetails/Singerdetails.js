@@ -9,7 +9,7 @@ const Singerdetails = (props) => {
 
         <div className="singerDetails">
             <div>
-                <img src={img} alt="" />
+                <img className="img-singer" src={img} alt="" />
                 <h1>{name}</h1>
                 <p>{Listed}</p>
                 <p>Country: {Birthplace}</p>

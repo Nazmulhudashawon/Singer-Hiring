@@ -12,11 +12,14 @@ const Cart = (props) => {
 
     return (
 
-        <div className="cart">
-            <h4>Total singer added: {props.cart.length}</h4>
-            <h5>Total cost: <span>{totalCost}$</span></h5>
-            <h5>{names.name}</h5>
-            <img src={names.img} alt="" />
+        <div className="cart-details">
+            <div className="cart">
+                <h4>Total singer added: {props.cart.length}</h4>
+                <h5>Total cost: <span>{totalCost}$</span></h5>
+                <h5>{names.name}</h5>
+                <img className="cart-img img-fluid" src={names.img} alt="" />
+
+            </div>
             <button className="btn btn-warning">Hire now</button>
         </div>
 
