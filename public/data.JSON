@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Selena Gomez",
+        "Listed": "Pop Singers",
+        "Birthdate": "July 22, 1992",
+        "Birthplace": " United States",
+        "remuneration": "20000",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/selena-gomez-5.jpg"
+    },
+    {
+        "name": "Ed Sheeran",
+        "Listed": "Pop Singers, Folk Singers",
+        "Birthdate": "February 17, 1991",
+        "Birthplace": " England",
+        "remuneration": "25000",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ed-sheeran-2.jpg"
+    },
+    {
+        "name": "Adele",
+        "Listed": "Rhythm & Blues Singers, Pop Singers, Soul Singers",
+        "Birthdate": "jan 22, 1991",
+        "Birthplace": " England",
+        "remuneration": "187000",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/adele-1.jpg"
+    },
+    {
+        "name": "Justin Bieber",
+        "Listed": "Rhythm & Blues Singers, Pop Singers, Soul Singers",
+        "Birthdate": " March 1, 1994",
+        "Birthplace": " London",
+        "remuneration": "30000",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/justin-bieber-7.jpg"
+    },
+    {
+        "name": "Bruno Mars",
+        "Listed": "Rhythm & Blues Singers",
+        "Birthdate": "October 8, 1985",
+        "Birthplace": "  United States",
+        "remuneration": "270000",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/bruno-mars-8.jpg"
+    },
+    {
+        "name": "Kanye West",
+        "Listed": " Hip Hop Singers ",
+        "Birthdate": "June 8, 1977",
+        "Birthplace": "  United States",
+        "remuneration": "270000",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/kanye-west-6.jpg"
+    },
+    {
+        "name": "John Legend",
+        "Listed": " Rhythm & Blues Singers ",
+        "Birthdate": "December 28, 1978",
+        "Birthplace": "  United States",
+        "remuneration": "270000",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/john-legend-4.jpg"
+    },
+    {
+        "name": "Gwen Stefani",
+        "Listed": " Hip Hop Singers ",
+        "Birthdate": "June 8, 1977",
+        "Birthplace": "  United States",
+        "remuneration": "240000",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/gwen-stefani-5.jpg"
+    },
+    {
+        "name": "Katy Perry",
+        "Listed": " Pop Singers ",
+        "Birthdate": "October 25, 1984",
+        "Birthplace": "  United States",
+        "remuneration": "210000",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/katy-perry-5.jpg"
+    }
+]
